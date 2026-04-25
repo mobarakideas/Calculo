@@ -28,5 +28,5 @@ From financial calculations to health metrics — everything in one place 🚀
 
 <img width="1362" height="636" alt="image" src="https://github.com/user-attachments/assets/d66232ca-f60a-4d25-9238-8f2cb206e0ae" />
 <img width="1362" height="631" alt="image" src="https://github.com/user-attachments/assets/4ec63525-9333-4f09-90f8-b821a68a2b6e" />
-<img width="1362" height="636" alt="Screenshot 2026-04-25 122721" src="https://github.com/user-attachments/assets/2168a88c-ddfa-4330-99ce-90307b9d1f5a" />
+
 
